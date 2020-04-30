@@ -14,6 +14,8 @@ public class Main {
 		response = controller.doAction(request);
 		
 		System.out.println(response);
+
+		System.out.println("Эта запись сделана для отработки навыков работы в GitHub");
 		
 
 	}
