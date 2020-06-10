@@ -15,4 +15,4 @@ jd1-module5-basic_of_oop-task4 - Основы ООП, задача 4
 
 jd1-module5-basic_of_oop-task5/src/by/htp/homework/oop/task5  - Основы ООП, задача 5
 
-jd1-library - Итоговая задача курса Introduction to Java Online
+jd1-library - Итоговая задача курса Introduction to Java Online (в процессе)
